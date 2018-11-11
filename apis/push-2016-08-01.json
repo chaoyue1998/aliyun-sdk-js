@@ -260,6 +260,18 @@
 					"AndroidExtParameters": {
 						"type": "string"
 					},
+					"AndroidNotificationChannel": {
+						"type": "string"
+					},
+					"AndroidPopupActivity": {
+						"type": "string"
+					},
+					"AndroidPopupTitle": {
+						"type": "string"
+					},
+					"AndroidPopupBody": {
+						"type": "string"
+					},
 					"iOSApnsEnv": {
 						"type": "string"
 					},
